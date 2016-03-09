@@ -7,3 +7,4 @@ Select the interface you wanna inspect
 
 Every second an output is given with the current Tx/Rx bytes transferred
 
+It works by consultingthe NDIS interface via ioctl, it needs Administrative rights to work
